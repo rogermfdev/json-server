@@ -105,30 +105,6 @@
       "descripcion": "Disfruta de las ballenas."
     },
     {
-      "id": 15,
-      "titulo": "Arrecifes de coral",
-      "link": "https://www.youtube.com/watch?v=kc_W9gz0KTI",
-      "thumbnail": "https://i.ytimg.com/vi/kc_W9gz0KTI/sddefault.jpg",
-      "categoria": "Arrecifes",
-      "descripcion": "Arrecifes de coral"
-    },
-    {
-      "id": 16,
-      "titulo": "Arrecifes de Coral",
-      "link": "https://www.youtube.com/watch?v=kc_W9gz0KTI",
-      "thumbnail": "Arrecifes de coral",
-      "categoria": "Oceano Profundo",
-      "descripcion": "Arrecifes de Coral"
-    },
-    {
-      "id": 17,
-      "titulo": "Arrecifes de Coral",
-      "link": "https://www.youtube.com/watch?v=kc_W9gz0KTI",
-      "thumbnail": "https://i.ytimg.com/vi/kc_W9gz0KTI/sddefault.jpg",
-      "categoria": "Oceano Profundo",
-      "descripcion": "Arrecifes de Coral"
-    },
-    {
       "id": 18,
       "titulo": "Pulpos increíbles BBC",
       "link": "https://www.youtube.com/watch?v=ebeNeQFUMa0",
